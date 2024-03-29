@@ -4,3 +4,4 @@ Data is transfered interms of Packet(8bit), it contains header,payload,Parity.Th
 
 
 
+![Router syn](https://github.com/Vivekanandan97/Router/assets/148924164/45ac0a6c-1ab9-47f9-8c3e-b06d61403e1d)
